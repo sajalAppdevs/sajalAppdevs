@@ -1,43 +1,32 @@
-# Hello 👋, I'm Md. Jahidul Islam
-### Fltuter Mobile app Developer
+<h1 align="center">Hi 👋, I'm Md. Jahidul Islam</h1>
+<h3 align="center">A passionate Flutter Mobile app Developer</h3>
 
-I am Flutter mobile app developer and interested in making rest API in Python.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalappdevs&label=Profile%20views&color=0e75b6&style=flat" alt="sajalappdevs" /> </p>
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/jahidul-islam-sajal-507212312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalappdevs" alt="sajalappdevs" /></a> </p>
 
-## Skills
+- 🔭 I’m currently working on **Flask**
 
+- 👨‍💻 All of my projects are available at [https://github.com/sajalAppdevs](https://github.com/sajalAppdevs)
+
+- 💬 Ask me about **Flutter,Dart,Python,Flask**
+
+- 📫 How to reach me **sajalsir890@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/sajalAppdevs](https://github.com/sajalAppdevs)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="data:image/png;base64,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" alt="flutter" width="40" height="40"/>&nbsp;
-<img src="data:image/jpeg;base64,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" alt="flask" width="40" height="40"/>&nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jahidul-islam-sajal-507212312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahidul-islam-sajal-507212312" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/jahidulislamsajal890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jahidulislamsajal890" height="30" width="40" /></a>
 </p>
 
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### neumorphic_widgets
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajalappdevs&show_icons=true&locale=en&layout=compact" alt="sajalappdevs" /></p>
 
-all flutter widgets make in neumorphic ui.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalappdevs&show_icons=true&locale=en" alt="sajalappdevs" /></p>
 
-[View Project](https://github.com/sajalAppdevs/neumorphic_widgets)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sajalAppdevs&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalAppdevs&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalAppdevs&theme=tokyonight" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/sajalAppdevs/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sajalAppdevs" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalAppdevs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajalappdevs&" alt="sajalappdevs" /></p>
 
