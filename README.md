@@ -25,11 +25,11 @@ all flutter widgets make in neumorphic ui.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sajalAppdevs&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=sajalAppdevs&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalAppdevs&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalAppdevs&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalAppdevs&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalAppdevs&theme=tokyonight" alt="GitHub Streak" />
 
 <img src="https://profile-counter.glitch.me/sajalAppdevs/count.svg?" alt="visitors count" />
 
